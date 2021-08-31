@@ -1,0 +1,15 @@
+C:/Mahdiyeh/University/Udemy/C++ Unreal Engine/BuildingEscape/Building_Escape/cmake-build-debug/CMakeFiles/Building_EscapeEditor.dir
+C:/Mahdiyeh/University/Udemy/C++ Unreal Engine/BuildingEscape/Building_Escape/cmake-build-debug/CMakeFiles/Building_Escape-Win64-DebugGame.dir
+C:/Mahdiyeh/University/Udemy/C++ Unreal Engine/BuildingEscape/Building_Escape/cmake-build-debug/CMakeFiles/UE4Editor-Win64-DebugGame.dir
+C:/Mahdiyeh/University/Udemy/C++ Unreal Engine/BuildingEscape/Building_Escape/cmake-build-debug/CMakeFiles/Building_EscapeEditor-Win64-DebugGame.dir
+C:/Mahdiyeh/University/Udemy/C++ Unreal Engine/BuildingEscape/Building_Escape/cmake-build-debug/CMakeFiles/Building_Escape-Win64-Shipping.dir
+C:/Mahdiyeh/University/Udemy/C++ Unreal Engine/BuildingEscape/Building_Escape/cmake-build-debug/CMakeFiles/Building_Escape.dir
+C:/Mahdiyeh/University/Udemy/C++ Unreal Engine/BuildingEscape/Building_Escape/cmake-build-debug/CMakeFiles/UE4Editor-Win64-Shipping.dir
+C:/Mahdiyeh/University/Udemy/C++ Unreal Engine/BuildingEscape/Building_Escape/cmake-build-debug/CMakeFiles/Building_EscapeEditor-Win64-Shipping.dir
+C:/Mahdiyeh/University/Udemy/C++ Unreal Engine/BuildingEscape/Building_Escape/cmake-build-debug/CMakeFiles/UE4Editor.dir
+C:/Mahdiyeh/University/Udemy/C++ Unreal Engine/BuildingEscape/Building_Escape/cmake-build-debug/CMakeFiles/UE4Game-Win64-DebugGame.dir
+C:/Mahdiyeh/University/Udemy/C++ Unreal Engine/BuildingEscape/Building_Escape/cmake-build-debug/CMakeFiles/UE4Game-Win64-Shipping.dir
+C:/Mahdiyeh/University/Udemy/C++ Unreal Engine/BuildingEscape/Building_Escape/cmake-build-debug/CMakeFiles/UE4Game.dir
+C:/Mahdiyeh/University/Udemy/C++ Unreal Engine/BuildingEscape/Building_Escape/cmake-build-debug/CMakeFiles/FakeTarget.dir
+C:/Mahdiyeh/University/Udemy/C++ Unreal Engine/BuildingEscape/Building_Escape/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Mahdiyeh/University/Udemy/C++ Unreal Engine/BuildingEscape/Building_Escape/cmake-build-debug/CMakeFiles/rebuild_cache.dir
