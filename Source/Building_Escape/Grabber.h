@@ -20,6 +20,7 @@ public:
 	// Called every frame
 	virtual void TickComponent(float DeltaTime, ELevelTick TickType, FActorComponentTickFunction* ThisTickFunction) override;
 
+	//Return the first actor within reach with aphysics body
 	FHitResult GetFirstPhysicsBodyInReach() const;
 
 
@@ -29,9 +30,11 @@ protected:
 
 
 private:
-	float Reach =100.f;
-	
+	float Reach =200.f;
+	UPROPERTY()
 	UPhysicsHandleComponent* PhysicsHandle = nullptr;
+
+	UPROPERTY()
 	UInputComponent* InputComponent = nullptr;
 
 	void Grab();
@@ -39,7 +42,9 @@ private:
 	void FindPhysicsHandle();
 	void SetupInputComponent();
 
-	//Return the first actor within reach with aphysics body
+	//Return the Line trace end
+	FVector GetPlayerReach() const;
 
-
+	//Get players Position in the world
+	FVector GetPlaversWorldPos() const;
 };
